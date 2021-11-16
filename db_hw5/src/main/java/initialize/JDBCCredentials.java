@@ -8,7 +8,7 @@ public final class JDBCCredentials {
             "5432",
             "hw5",
             "postgres",
-            "VS4050608a"
+            "postgres"
     );
 
     private static final @NotNull String PREFIX = "jdbc:postgresql";
